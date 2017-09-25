@@ -1,0 +1,5 @@
+/home/cat/Documents/Github/JenkinsTest/JenkinsTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cat/Documents/Github/JenkinsTest/JenkinsTest/bin/Debug/JenkinsTest.pdb
+/home/cat/Documents/Github/JenkinsTest/JenkinsTest/bin/Debug/JenkinsTest.exe
+/home/cat/Documents/Github/JenkinsTest/JenkinsTest/obj/x86/Debug/JenkinsTest.exe
+/home/cat/Documents/Github/JenkinsTest/JenkinsTest/obj/x86/Debug/JenkinsTest.pdb
