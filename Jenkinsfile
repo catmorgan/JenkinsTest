@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo 'Deploying...'
                 sh 'ssh jenkins@76.89.239.141 -p 8022 mkdir -p /home/jenkins-test'
-                sh 'scp -P 8022 -r dist jenkins@6.89.239.141:/var/www/temp_deploy/dist/'
+                sh 'scp -P 8022 -r /var/lib/jenkins/workspace/JenkinsTest jenkins@76.89.239.141:/home/jenkins0test'
             }
         }
     }
